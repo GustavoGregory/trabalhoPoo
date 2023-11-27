@@ -1,0 +1,25 @@
+{
+  "Pecas": [
+    {
+      "Id": "e9578364-7f56-4239-8a31-264951990216",
+      "Nome": "urtyurtu",
+      "Tipo": "uuuu",
+      "DataUltimaModificacao": "2023-11-27T19:33:30.4487395-03:00",
+      "PropriedadesDinamicas": []
+    },
+    {
+      "Id": "f09461ef-1fb4-4b16-8d1c-509d13b1106d",
+      "Nome": "outra",
+      "Tipo": "peca",
+      "DataUltimaModificacao": "2023-11-27T19:35:56.1724026-03:00",
+      "PropriedadesDinamicas": []
+    },
+    {
+      "Id": "1017ee64-a80a-4fd0-82ac-427c5301baa0",
+      "Nome": "CHAVE DE FENDA",
+      "Tipo": "FERRAMENTA",
+      "DataUltimaModificacao": "2023-11-27T19:51:31.5915981-03:00",
+      "PropriedadesDinamicas": []
+    }
+  ]
+}

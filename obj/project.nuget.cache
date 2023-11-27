@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8eu8aUOW5VhxCsO0VlVLr1c+At4otwsBQXQpCooXDqTOZnIBqpgIh6ls5TgLZDFQe+96AxhN18AkwBukSBUNvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gustavo\\OneDrive\\Área de Trabalho\\Cadastro-de-pe-as-main\\Cadastro de peças.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
